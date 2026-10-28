@@ -1,31 +1,21 @@
 
+
 <h1 align="center">Naissen Chebbi</h1>
 
 <div align="center">
 
-<!-- AI LAB • PINK & LAVENDER BANNER -->
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:17101F,45:9B72CF,75:E7A4D7,100:C9B6FF&text=NAISSEN%20CHEBBI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEERING&descSize=15&descAlignY=58&animation=twinkling"
   alt="Pink and lavender AI Lab banner"
 />
 
-<!-- ANIMATED TYPING HEADLINE -->
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=E7A4D7&center=true&vCenter=true&width=700&height=55&lines=AI+%26+Data+Science+Engineering+Student;Exploring+Natural+Language+Processing;Retrieval-Augmented+Generation+%7C+RAG;Large+Language+Models+%7C+LLMs;Machine+Learning+%26+MLOps"
-    alt="Animated typing headline"
-/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=E7A4D7&center=true&vCenter=true&width=700&height=55&lines=AI+%26+Data+Science+Engineering+Student;Exploring+Natural+Language+Processing;Retrieval-Augmented+Generation+%7C+RAG;Large+Language+Models+%7C+LLMs;Machine+Learning+%26+MLOps" alt="Animated typing headline" />
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20LAB-17101F?style=for-the-badge&logo=probot&logoColor=E7A4D7" alt="AI Lab" />
-<img src="https://img.shields.io/badge/NLP-C9B6FF?style=for-the-badge&logo=googlescholar&logoColor=17101F" alt="NLP" />
-<img src="https://img.shields.io/badge/LLMs-E7A4D7?style=for-the-badge&logo=openai&logoColor=17101F" alt="LLMs" />
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-9B72CF?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" alt="Machine Learning" />
-
 </div>
+
 
 ---
 
