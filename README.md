@@ -1,20 +1,26 @@
-# naissen.chebbi
- <div align="center">
 
-<!-- AI LAB • PINK & LAVENDER -->
+<h1 align="center">Naissen Chebbi</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:17101F,45:9B72CF,75:E7A4D7,100:C9B6FF&text=NAISSEN%20CHEBBI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEERING&descSize=15&descAlignY=58&animation=twinkling&stroke=C9B6FF&strokeWidth=1" alt="Pink and lavender AI Lab banner" />
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=E7A4D7&center=true&vCenter=true&width=700&height=55&lines=AI+%26+Data+Science+Engineering+Student;Exploring+Natural+Language+Processing;Retrieval-Augmented+Generation+%7C+RAG;Large+Language+Models+%7C+LLMs;Machine+Learning+%26+MLOps" alt="Animated typing headline" />
-</a>
+  <!-- AI LAB • PINK & LAVENDER BANNER -->
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:17101F,45:9B72CF,75:E7A4D7,100:C9B6FF&text=NAISSEN%20CHEBBI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEERING&descSize=15&descAlignY=58&animation=twinkling"
+    alt="Pink and lavender AI Lab banner"
+  />
 
-<br/>
+  <!-- ANIMATED TYPING HEADLINE -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=E7A4D7&center=true&vCenter=true&width=700&height=55&lines=AI+%26+Data+Science+Engineering+Student;Exploring+Natural+Language+Processing;Retrieval-Augmented+Generation+%7C+RAG;Large+Language+Models+%7C+LLMs;Machine+Learning+%26+MLOps" alt="Animated typing headline" />
+  </a>
 
-<img src="https://img.shields.io/badge/AI%20LAB-17101F?style=for-the-badge&logo=probot&logoColor=E7A4D7" alt="AI Lab" />
-<img src="https://img.shields.io/badge/NLP-C9B6FF?style=for-the-badge&logo=googlescholar&logoColor=17101F" alt="NLP" />
-<img src="https://img.shields.io/badge/LLMs-E7A4D7?style=for-the-badge&logo=openai&logoColor=17101F" alt="LLMs" />
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-9B72CF?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" alt="Machine Learning" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/AI%20LAB-17101F?style=for-the-badge&logo=probot&logoColor=E7A4D7" alt="AI Lab" />
+  <img src="https://img.shields.io/badge/NLP-C9B6FF?style=for-the-badge&logo=googlescholar&logoColor=17101F" alt="NLP" />
+  <img src="https://img.shields.io/badge/LLMs-E7A4D7?style=for-the-badge&logo=openai&logoColor=17101F" alt="LLMs" />
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-9B72CF?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" alt="Machine Learning" />
 
 </div>
 
@@ -54,13 +60,17 @@ My goal is to turn ideas into useful projects while continuously strengthening m
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-17101F?style=for-the-badge&labelColor=9B72CF" alt="Natural Language Processing" />
-<img src="https://img.shields.io/badge/RAG-Retrieval%20%2B%20Generation-17101F?style=for-the-badge&labelColor=C9B6FF" alt="Retrieval Augmented Generation" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-17101F?style=for-the-badge&labelColor=9B72CF" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20%2B%20Generation-17101F?style=for-the-badge&labelColor=C9B6FF" alt="Retrieval Augmented Generation" />
 
-<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-17101F?style=for-the-badge&labelColor=E7A4D7" alt="Large Language Models" />
-<img src="https://img.shields.io/badge/ML-Machine%20Learning-17101F?style=for-the-badge&labelColor=BD8FE8" alt="Machine Learning" />
+  <br/>
 
-<img src="https://img.shields.io/badge/MLOps-From%20Models%20to%20Production-17101F?style=for-the-badge&labelColor=8C78B8" alt="MLOps" />
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-17101F?style=for-the-badge&labelColor=E7A4D7" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/ML-Machine%20Learning-17101F?style=for-the-badge&labelColor=BD8FE8" alt="Machine Learning" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/MLOps-From%20Models%20to%20Production-17101F?style=for-the-badge&labelColor=8C78B8" alt="MLOps" />
 
 </div>
 
@@ -88,9 +98,9 @@ My goal is to turn ideas into useful projects while continuously strengthening m
 
 <div align="center">
 
-### 🧪 The AI Lab
+  <h3>🧪 The AI Lab</h3>
 
-*Ideas become experiments. Experiments become projects.*
+  <i>Ideas become experiments. Experiments become projects.</i>
 
 </div>
 
@@ -106,9 +116,9 @@ I'm using this space to showcase my work in AI and Data Science. As my projects 
 | Machine Learning | Data preparation, model training, evaluation, and experimentation |
 | MLOps | Reproducibility, deployment, monitoring, and model lifecycle management |
 
-**Add a real project here when ready**
+**Featured project template**
 
-To feature a repository, copy this template and replace the placeholders with a real public repository and its actual details:
+When you publish a project, replace the example below with your actual repository details.
 
 ```markdown
 ### [Your project name](https://github.com/naissenchebbi/REPOSITORY-NAME)
@@ -126,18 +136,16 @@ A short description of the problem, your approach, and what you learned.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naissenchebbi&show_icons=true&hide_border=true&bg_color=17101F&title_color=E7A4D7&text_color=E9DFF5&icon_color=C9B6FF&ring_color=E7A4D7" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naissenchebbi&layout=compact&hide_border=true&bg_color=17101F&title_color=E7A4D7&text_color=E9DFF5&langs_count=8" alt="Most used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naissenchebbi&show_icons=true&hide_border=true&bg_color=17101F&title_color=E7A4D7&text_color=E9DFF5&icon_color=C9B6FF&ring_color=E7A4D7" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naissenchebbi&layout=compact&hide_border=true&bg_color=17101F&title_color=E7A4D7&text_color=E9DFF5&langs_count=8" alt="Most used programming languages" />
+
+  <br/><br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=naissenchebbi&hide_border=true&background=17101F&ring=E7A4D7&fire=C9B6FF&currStreakLabel=E7A4D7&sideLabels=E9DFF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B9A9C9" alt="GitHub contribution streak" />
 
 </div>
 
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=naissenchebbi&hide_border=true&background=17101F&ring=E7A4D7&fire=C9B6FF&currStreakLabel=E7A4D7&sideLabels=E9DFF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B9A9C9" alt="GitHub contribution streak" />
-
-</div>
-
-<sub>Statistics are provided by external services and may be delayed or unavailable. Language charts reflect GitHub repository contents, not necessarily proficiency.</sub>
+<sub>Statistics are provided by external services and may be delayed or unavailable. Language charts reflect repository contents, not necessarily proficiency.</sub>
 
 ---
 
@@ -145,18 +153,20 @@ A short description of the problem, your approach, and what you learned.
 
 <div align="center">
 
-<a href="https://github.com/naissenchebbi">
-  <img src="https://img.shields.io/badge/GitHub-naissenchebbi-17101F?style=for-the-badge&logo=github&logoColor=E7A4D7" alt="GitHub profile" />
-</a>
+  <a href="https://github.com/naissenchebbi">
+    <img src="https://img.shields.io/badge/GitHub-naissenchebbi-17101F?style=for-the-badge&logo=github&logoColor=E7A4D7" alt="GitHub profile" />
+  </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-C9B6FF?style=for-the-badge&logo=linkedin&logoColor=17101F" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-C9B6FF?style=for-the-badge&logo=linkedin&logoColor=17101F" alt="LinkedIn" />
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-*Curiosity is the beginning of every great experiment.*
+  <i>Curiosity is the beginning of every great experiment.</i>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:17101F,45:9B72CF,75:E7A4D7,100:C9B6FF" alt="Pink and lavender footer banner" />
+  <br/><br/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:17101F,45:9B72CF,75:E7A4D7,100:C9B6FF" alt="Pink and lavender footer banner" />
 
 </div>
